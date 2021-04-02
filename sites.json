@@ -2,6 +2,12 @@
     "date": "2021-04-02 20:25:00",
     "sites": [
         {
+            "url": "https://webtoon.xyz/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://webtoon.xyz/",
+            "isWithReco": true
+        },
+        {
             "url": "https://mangapl.com/",
             "chapterIsAjax": true,
             "recoUrl": "https://mangapl.com/",
