@@ -1,0 +1,85 @@
+[
+    {
+        "url": "https://mangapl.com/",
+        "chapterIsAjax": true,
+        "recoUrl": "https://mangapl.com/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://mangaclash.com/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://mangaclash.com/manga/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://mangahentai.me/",
+        "chapterIsAjax": true,
+        "recoUrl": "https://mangahentai.me/",
+        "isWithReco": true
+    },
+    
+    {
+        "url": "https://manga18fx.com/",
+        "chapterIsAjax": true,
+        "recoUrl": "https://manga18fx.com/",
+        "isWithReco": false
+    },
+    {
+        "url": "https://manytoon.me/",
+        "chapterIsAjax": true,
+        "recoUrl": "https://manytoon.me/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://mangatx.com/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://mangatx.com/",
+        "isWithReco": true
+    },
+
+    {
+        "url": "https://webtoonscan.com/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://webtoonscan.com/",
+        "isWithReco": true
+    },
+
+    {
+        "url": "https://manytoon.club/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://manytoon.club/",
+        "isWithReco": true
+    },
+
+    {
+        "url": "https://manhwaraw.com/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://manhwaraw.com/",
+        "isWithReco": true
+    },
+    
+    {
+        "url": "https://manytoon.com/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://manytoon.com/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://manhwahentai.me/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://manhwahentai.me/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://webnovel.live/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://webnovel.live/",
+        "isWithReco": true
+    },
+    {
+        "url": "https://manhwa.club/",
+        "chapterIsAjax": false,
+        "recoUrl": "https://manhwa.club/",
+        "isWithReco": true
+    }
+]
