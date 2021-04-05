@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-02 20:25:02",
+    "date": "2021-04-03 23:35:00",
     "sites": [
         {
             "url": "https://mangapl.com/",
@@ -82,6 +82,12 @@
             "url": "https://manhwa.club/",
             "chapterIsAjax": false,
             "recoUrl": "https://manhwa.club/",
+            "isWithReco": true
+        },
+        {
+            "url": "https://allporncomic.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://allporncomic.com/",
             "isWithReco": true
         }
     ]
