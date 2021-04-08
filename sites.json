@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-08 01:46:00",
+    "date": "2021-04-08 01:47:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -112,9 +112,9 @@
             "cf": true
         },
         {
-            "url": "https://webtoon.xyz/",
+            "url": "https://www.webtoon.xyz/",
             "chapterIsAjax": true,
-            "recoUrl": "https://webtoon.xyz/",
+            "recoUrl": "https://www.webtoon.xyz/",
             "isWithReco": true,
             "cf": true
         }
