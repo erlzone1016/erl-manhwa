@@ -103,6 +103,20 @@
             "recoUrl": "https://mangapl.com/",
             "isWithReco": true,
             "cf": false
+        },
+        {
+            "url": "https://toonily.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://toonily.com/",
+            "isWithReco": true,
+            "cf": true
+        },
+        {
+            "url": "https://webtoon.xyz/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://webtoon.xyz/",
+            "isWithReco": true,
+            "cf": true
         }
     ]
 }
