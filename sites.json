@@ -1,10 +1,17 @@
 {
-    "date": "2021-04-08 01:47:00",
+    "date": "2021-04-10 16:25:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://mangaclash.com/manga/",
+            "isWithReco": true,
+            "cf": false
+        },
+        {
+            "url": "https://mangapl.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://mangapl.com/",
             "isWithReco": true,
             "cf": false
         },
@@ -94,13 +101,6 @@
             "url": "https://allporncomic.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://allporncomic.com/",
-            "isWithReco": true,
-            "cf": false
-        },
-        {
-            "url": "https://mangapl.com/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://mangapl.com/",
             "isWithReco": true,
             "cf": false
         },
