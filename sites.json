@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-14 21:42:00",
+    "date": "2021-04-14 21:43:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -35,7 +35,7 @@
             "url": "http://hiperdex.com/",
             "chapterIsAjax": true,
             "recoUrl": "http://hiperdex.com/",
-            "isWithReco": false,
+            "isWithReco": true,
             "cf": false
         },
 
