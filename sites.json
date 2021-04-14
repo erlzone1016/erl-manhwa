@@ -30,6 +30,16 @@
             "isWithReco": false,
             "cf": false
         },
+
+        {
+            "url": "http://hiperdex.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "http://hiperdex.com/",
+            "isWithReco": false,
+            "cf": false
+        },
+
+        
         {
             "url": "https://manytoon.me/",
             "chapterIsAjax": true,
