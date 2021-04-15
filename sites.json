@@ -15,6 +15,16 @@
             "isWithReco": true,
             "cf": false
         },
+
+        
+        {
+            "url": "https://manhwatop.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwatop.com/",
+            "isWithReco": true,
+            "cf": false
+        },
+
         {
             "url": "https://mangahentai.me/",
             "chapterIsAjax": true,
