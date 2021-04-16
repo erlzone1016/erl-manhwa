@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-16 15:10:00",
+    "date": "2021-04-16 15:10:01",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -22,7 +22,7 @@
             "url": "https://manhwaz.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://manhwaz.com/",
-            "isWithReco": false,
+            "isWithReco": true,
             "cf": false,
             "moduleKey": "manhwaz.com"
         },
