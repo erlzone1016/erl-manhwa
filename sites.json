@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-17 16:30:00",
+    "date": "2021-04-17 18:17:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -34,6 +34,15 @@
             "isWithReco": true,
             "cf": false,
             "moduleKey": "sololeveling.net"
+        },
+
+        {
+            "url": "https://readsololeveling.org/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://readsololeveling.org/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "readsololeveling.org"
         },
         
         {
