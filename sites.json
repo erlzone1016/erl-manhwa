@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-17 18:17:00",
+    "date": "2021-04-21 13:35:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -16,6 +16,24 @@
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
+        },
+
+        {
+            "url": "https://manhwa18.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwa18.com"
+        },
+
+        {
+            "url": "https://manhwa18.net/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwa18.net"
         },
         
         {
