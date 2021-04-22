@@ -125,6 +125,15 @@
             "cf": false,
             "moduleKey": "general"
         },
+        
+        {
+            "url": "https://mangazuki.me/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://mangazuki.me/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
     
         {
             "url": "https://manytoon.club/",
