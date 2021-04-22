@@ -1,5 +1,5 @@
 {
-    "date": "2021-04-22 23:22:00",
+    "date": "2021-04-22 23:27:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -125,16 +125,7 @@
             "cf": false,
             "moduleKey": "general"
         },
-        
-        {
-            "url": "https://mangazuki.me/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://mangazuki.me/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-    
+   
         {
             "url": "https://manytoon.club/",
             "chapterIsAjax": false,
