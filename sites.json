@@ -2,14 +2,6 @@
     "date": "2021-05-30 03:52:00",
     "sites": [
         {
-            "url": "https://mangaclash.com/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://mangaclash.com/manga/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-        {
             "url": "https://mangapl.com/",
             "chapterIsAjax": true,
             "recoUrl": "https://mangapl.com/",
@@ -35,16 +27,6 @@
             "cf": false,
             "moduleKey": "manhwa18.net"
         },
-        
-        {
-            "url": "https://manhwaz.com/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://manhwaz.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "manhwaz.com"
-        },
-
         {
             "url": "https://w3.sololeveling.net/",
             "chapterIsAjax": false,
@@ -163,14 +145,6 @@
             "moduleKey": "general"
         },
         {
-            "url": "https://manhwahentai.me/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://manhwahentai.me/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-        {
             "url": "https://webnovel.live/",
             "chapterIsAjax": false,
             "recoUrl": "https://webnovel.live/",
@@ -209,6 +183,30 @@
             "isWithReco": true,
             "cf": true,
             "moduleKey": "general"
+        },
+        {
+            "url": "https://mangaclash.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaclash.com/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://manhwahentai.me/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwahentai.me/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://manhwaz.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwaz.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwaz.com"
         }
     ]
 }
