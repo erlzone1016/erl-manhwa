@@ -1,15 +1,6 @@
 {
-    "date": "2021-07-05 22:31:00",
+    "date": "2021-07-16 00:01:00",
     "sites": [
-        {
-            "url": "https://mangapl.com/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://mangapl.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-
         {
             "url": "https://manhwa18.com/",
             "chapterIsAjax": true,
@@ -26,6 +17,14 @@
             "isWithReco": true,
             "cf": false,
             "moduleKey": "manhwa18.net"
+        },
+        {
+            "url": "https://manhwahentai.me/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwahentai.me/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
         },
         {
             "url": "https://w3.sololeveling.net/",
@@ -193,9 +192,9 @@
             "moduleKey": "general"
         },
         {
-            "url": "https://manhwahentai.me/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://manhwahentai.me/",
+            "url": "https://mangapl.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://mangapl.com/",
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
