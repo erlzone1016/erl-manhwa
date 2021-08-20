@@ -1,6 +1,14 @@
 {
-    "date": "2021-07-16 00:01:00",
+    "date": "2021-08-20 10:52:00",
     "sites": [
+        {
+            "url": "https://mangaclash.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaclash.com/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
         {
             "url": "https://manhwa18.com/",
             "chapterIsAjax": true,
@@ -9,19 +17,18 @@
             "cf": false,
             "moduleKey": "manhwa18.com"
         },
-
-        {
-            "url": "https://manhwa18.net/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://manhwa18.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "manhwa18.net"
-        },
         {
             "url": "https://manhwahentai.me/",
             "chapterIsAjax": false,
             "recoUrl": "https://manhwahentai.me/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://mangapl.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://mangapl.com/",
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
@@ -184,20 +191,12 @@
             "moduleKey": "general"
         },
         {
-            "url": "https://mangaclash.com/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://mangaclash.com/manga/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-        {
-            "url": "https://mangapl.com/",
+            "url": "https://manhwa18.net/",
             "chapterIsAjax": true,
-            "recoUrl": "https://mangapl.com/",
+            "recoUrl": "https://manhwa18.com/",
             "isWithReco": true,
             "cf": false,
-            "moduleKey": "general"
+            "moduleKey": "manhwa18.net"
         },
         {
             "url": "https://manhwaz.com/",
