@@ -1,5 +1,5 @@
 {
-    "date": "2021-08-30 00:31:00",
+    "date": "2021-09-09 23:33:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -16,6 +16,14 @@
             "isWithReco": true,
             "cf": false,
             "moduleKey": "manhwa18.com"
+        },
+        {
+            "url": "https://toonily.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://toonily.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
         },
         {
             "url": "https://manhwahentai.me/",
@@ -170,14 +178,6 @@
             "url": "https://allporncomic.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://allporncomic.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-        {
-            "url": "https://toonily.com/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://toonily.com/",
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
