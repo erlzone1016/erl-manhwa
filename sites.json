@@ -10,6 +10,30 @@
             "moduleKey": "general"
         },
         {
+            "url": "https://aquamanga.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://aquamanga.com/read/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://mangaxp.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaxp.com/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://mangaweebs.in/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaweebs.in/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
             "url": "https://manhwa18.com/",
             "chapterIsAjax": true,
             "recoUrl": "https://manhwa18.com/",
