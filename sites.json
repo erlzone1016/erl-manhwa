@@ -1,10 +1,66 @@
 {
-    "date": "2021-04-22 23:27:00",
+    "date": "2021-11-12 17:41:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://mangaclash.com/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://aquamanga.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://aquamanga.com/read/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://mangaxp.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaxp.com/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://mangaweebs.in/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://mangaweebs.in/manga/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://manhwa18.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwa18.com"
+        },
+        {
+            "url": "https://manhwa18.cc/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.cc/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwa18.cc"
+        },
+        {
+            "url": "https://toonily.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://toonily.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
+            "url": "https://manhwahentai.me/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwahentai.me/",
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
@@ -17,34 +73,6 @@
             "cf": false,
             "moduleKey": "general"
         },
-
-        {
-            "url": "https://manhwa18.com/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://manhwa18.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "manhwa18.com"
-        },
-
-        {
-            "url": "https://manhwa18.net/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://manhwa18.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "manhwa18.net"
-        },
-        
-        {
-            "url": "https://manhwaz.com/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://manhwaz.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "manhwaz.com"
-        },
-
         {
             "url": "https://w3.sololeveling.net/",
             "chapterIsAjax": false,
@@ -125,6 +153,16 @@
             "cf": false,
             "moduleKey": "general"
         },
+        
+        {
+            "url": "https://manhwa18.org/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.org/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        
    
         {
             "url": "https://manytoon.club/",
@@ -148,14 +186,6 @@
             "url": "https://manytoon.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://manytoon.com/",
-            "isWithReco": true,
-            "cf": false,
-            "moduleKey": "general"
-        },
-        {
-            "url": "https://manhwahentai.me/",
-            "chapterIsAjax": false,
-            "recoUrl": "https://manhwahentai.me/",
             "isWithReco": true,
             "cf": false,
             "moduleKey": "general"
@@ -185,20 +215,28 @@
             "moduleKey": "general"
         },
         {
-            "url": "https://toonily.com/",
-            "chapterIsAjax": true,
-            "recoUrl": "https://toonily.com/",
-            "isWithReco": true,
-            "cf": true,
-            "moduleKey": "general"
-        },
-        {
             "url": "https://www.webtoon.xyz/",
             "chapterIsAjax": true,
             "recoUrl": "https://www.webtoon.xyz/",
             "isWithReco": true,
-            "cf": true,
+            "cf": false,
             "moduleKey": "general"
+        },
+        {
+            "url": "https://manhwa18.net/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwa18.net"
+        },
+        {
+            "url": "https://manhwaz.com/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwaz.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "manhwaz.com"
         }
     ]
 }
