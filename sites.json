@@ -1,5 +1,5 @@
 {
-    "date": "2021-11-12 16:09:00",
+    "date": "2021-11-12 17:41:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -47,7 +47,7 @@
             "recoUrl": "https://manhwa18.cc/",
             "isWithReco": true,
             "cf": false,
-            "moduleKey": "general"
+            "moduleKey": "manhwa18.cc"
         },
         {
             "url": "https://toonily.com/",
