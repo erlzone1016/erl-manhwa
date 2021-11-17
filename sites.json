@@ -42,6 +42,14 @@
             "moduleKey": "manhwa18.com"
         },
         {
+            "url": "https://manhwa18.cc/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://manhwa18.cc/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
             "url": "https://toonily.com/",
             "chapterIsAjax": true,
             "recoUrl": "https://toonily.com/",
