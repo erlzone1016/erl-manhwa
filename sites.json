@@ -1,5 +1,5 @@
 {
-    "date": "2021-11-18 03:06:00",
+    "date": "2022-06-21 02:00:00",
     "sites": [
         {
             "url": "https://mangaclash.com/",
@@ -40,6 +40,14 @@
             "isWithReco": true,
             "cf": false,
             "moduleKey": "manhwa18.com"
+        },
+        {
+            "url": "https://manhwahub.net/",
+            "chapterIsAjax": false,
+            "recoUrl": "https://manhwahub.net/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
         },
         {
             "url": "https://manhwa18.cc/",
