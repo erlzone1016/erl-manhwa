@@ -18,6 +18,14 @@
             "moduleKey": "general"
         },
         {
+            "url": "https://mangadistrict.com/",
+            "chapterIsAjax": true,
+            "recoUrl": "https://mangadistrict.com/",
+            "isWithReco": true,
+            "cf": false,
+            "moduleKey": "general"
+        },
+        {
             "url": "https://mangaxp.com/",
             "chapterIsAjax": false,
             "recoUrl": "https://mangaxp.com/manga/",
